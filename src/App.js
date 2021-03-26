@@ -39,7 +39,8 @@ class App extends Component {
       border: '1px solid blue', 
       padding : '10px',
       cusor : 'pointer',
-    }
+    };
+    
     return (
       <div className="App">
       <h3>my new app</h3>
